@@ -1,0 +1,7 @@
+# Project exclude paths
+/.gradle/
+/Cinema Room Manager/task/build/
+/Topics/Iterating over arrays/Cyclically shifting elements/out/
+/Topics/Iterating over arrays/Cyclically shifting elements/out/production/classes/
+/Topics/Iterating over arrays/Two numbers never occur next to each other/out/
+/Topics/Iterating over arrays/Two numbers never occur next to each other/out/production/classes/
